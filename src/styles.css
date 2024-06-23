@@ -1,0 +1,100 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar .navbar-brand {
+    margin-bottom: 0;
+}
+
+.navbar .navbar-text {
+    margin-left: 10px;
+    font-size: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px; /* Adjust as necessary to align vertically */
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+
+.system-actions {
+    text-align: center;
+}
+
+.system-delete {
+    text-align: center;
+}
+
+.change-threshold-form .form-group {
+    margin-bottom: 10px;
+}
+
+.list-group-item {
+    margin-bottom: 15px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+body {
+    background-color: #f8f9fa;
+}
+
+
+.login-form-container {
+    width: 70%; /* Chiều rộng khoảng 40% của màn hình */
+    max-width: 400px; /* Tối đa 400px để đảm bảo form không quá rộng trên màn hình lớn */
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container {
+    max-width: 40%;
+}
+
+.card {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card-body {
+    padding: 2rem;
+}
+/* Định dạng form dữ liệu */
+.form-group {
+    margin-bottom: 20px; /* Khoảng cách giữa các nhóm input */
+}
+
+/* Chỉnh kích thước form */
+form {
+    max-width: 900px; /* Độ rộng tối đa của form */
+    margin: 0 auto; /* Canh giữa form */
+}
+
+/* Định dạng các button trong form */
+form button {
+    margin-right: 10px; /* Khoảng cách giữa các button */
+}
+
+/* Định dạng phần nội dung hệ thống */
+.system-info {
+    max-width: 300px; /* Độ rộng tối đa của phần thông tin hệ thống */
+}
+
+/* Định dạng các nút thao tác */
+.system-actions button {
+    margin-bottom: 5px; /* Khoảng cách dưới của các nút thao tác */
+}

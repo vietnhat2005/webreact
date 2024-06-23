@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "temperature": "24°C",
+        "humidity": "60%",
+        "waterLevel": 75,
+        "soilMoisture": 50,
+        "threshold": 30
+    },
+    {
+        "id": "2",
+        "temperature": "22°C",
+        "humidity": "55%",
+        "waterLevel": 65,
+        "soilMoisture": 45,
+        "threshold": 35
+    }
+]
+
